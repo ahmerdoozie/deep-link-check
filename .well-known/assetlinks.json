@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sinremover.sin_remover",
+      "sha256_cert_fingerprints": [
+        "28:27:14:71:93:75:DF:DE:A0:F2:91:CB:9D:77:13:C5:34:3C:67:A5:6D:4B:96:AB:CD:AF:D7:28:95:39:C9:3B"
+      ]
+    }
+  }
+]
